@@ -1,13 +1,15 @@
-📖 About me
-- 👋 Hi, I’m Om Trivedi
-- 👀 I’m interested in Flutter Development.
-- 🌱 I’m currently learning Flutter Development.
-- 💞️ I’m looking to collaborate on company.
-- 💬 Ask me about Flutter queries
-- 📫 you can messege me on Linked In (https://www.linkedin.com/in/om-trivedi-2b8b93252).
+# 💫 About Me:
 
-<!---
-omtrivedi110/omtrivedi110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+ dart
+import 'dev-community:india/flutter-devs';
+class Desc extends SoftwareDeveloper {
+  static final String name = "Om Trivedi";
+  dynamic title = "Flutter Developper";
+  dynamic location = "Gujarat, India";
+  @override
+  getSkills() {    
+    List<Skills> languages  = [ 'C', 'C++', 'Dart', 'PHP' ];
+    List<Skills> Software  = [ 'figma', 'Adobe Premiere Pro' , 'Adobe Photoshop' ];
+    List<Skills> Tools  = [ 'Flutter' , 'Firebase' ];   
+  }
+}
