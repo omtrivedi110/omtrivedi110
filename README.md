@@ -30,8 +30,6 @@ class Desc extends SoftwareDeveloper {
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2d74e5bb8437158e8e03f146db949b974c13df30804383207563ec797213182c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966"  />
-
 ###
 
 <div align="left">
