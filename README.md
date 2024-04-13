@@ -49,7 +49,7 @@ class Desc extends SoftwareDeveloper {
 ###
 
 <div align="left">
- <a href="https://www.linkedin.com/in/om-trivedi-2b8b93252/https://www.linkedin.com/in/om-trivedi-2b8b93252/">Linkedin</a>
+ <a href="https://www.linkedin.com/in/om-trivedi-2b8b93252/https://www.linkedin.com/in/om-trivedi-2b8b93252/" target="_blank">Linkedin</a>
 </div>
 
 ###
