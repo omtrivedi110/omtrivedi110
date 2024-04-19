@@ -13,8 +13,9 @@ class Desc extends SoftwareDeveloper {
   @override
   getSkills()    
     List<Skills> languages  = [ 'C', 'C++', 'Dart', 'PHP' ];
-    List<Skills> software  = [ 'Android Studio', 'figma', 'Adobe Premiere Pro' , 'Adobe Photoshop'];
-    List<Skills> tools  = [ 'Flutter' , 'Firebase' , 'Local Database'];
+    List<Skills> software  = [ 'Android Studio', 'figma'];
+    List<Skills> tools  = [ 'Flutter' , 'Firebase' , 'Local Database', 'Adobe Photoshop'];
+    List<Project> projects  = [ 'Gleamrush' , 'E-Commerce' , 'Quotes App' , 'Chat App' , 'Barcode Scanner'];
   }
 }
 ```
