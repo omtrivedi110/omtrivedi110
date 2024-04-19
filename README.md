@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="flutter logo">  <img width="12" />
 </div>
 
-<h1 align="center">Hi 👋! My name is Om Trivedi and I'm a Flutter Developer</h1>
-
 ###
 
 # 💫 About Me:
